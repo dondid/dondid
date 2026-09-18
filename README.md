@@ -19,6 +19,10 @@
 
 ---
 
+<details>
+  <summary><b>🚀 Click to expand full profile</b></summary>
+  <br/>
+
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building web applications and improving my portfolio.
@@ -183,3 +187,5 @@
   <!-- Add your LinkedIn or other links below! -->
   <!-- <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
 </div>
+
+</details>
