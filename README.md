@@ -171,7 +171,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dondid&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dondid&theme=tokyonight&name=dondid" />
 </div>
 
 <br />
