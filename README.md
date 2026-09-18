@@ -35,7 +35,7 @@
   <br/>
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,c,cpp,cs,go,php,react,vue,nextjs,nodejs,laravel,vite,tailwind,bootstrap,qt,mysql,git,github,vscode&perline=15" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,r,c,cpp,cs,go,php,react,vue,nextjs,nodejs,laravel,vite,tailwind,bootstrap,qt,electron,mysql,git,github,vscode,zed,idea,pycharm,webstorm,phpstorm,clion&perline=15" />
     </a>
     <br><br>
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
